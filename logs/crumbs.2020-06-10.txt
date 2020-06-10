@@ -1,0 +1,930 @@
+URL:/
+METHOD:GET
+start(url):0.89340300 1591768473
+start_controller(defaultcontroller->index):0.90048800 1591768473
+end_controller(defaultcontroller->index):0.90159000 1591768473
+end(url):0.90159500 1591768473
+URL:/
+METHOD:GET
+start(url):0.10416800 1591768484
+start_controller(defaultcontroller->index):0.10500600 1591768484
+end_controller(defaultcontroller->index):0.10502600 1591768484
+end(url):0.10502700 1591768484
+URL:/asdf
+METHOD:GET
+start(url):0.80493400 1591768489
+start_controller(asdf->index):0.80510100 1591768489
+end_controller(asdf->index):0.80511000 1591768489
+end(url):0.80511100 1591768489
+URL:/asdf?aaa=111&bbgb=222#anchor
+METHOD:GET
+start(url):0.39173100 1591768605
+start_controller(asdf->index):0.39258700 1591768605
+end_controller(asdf->index):0.39260500 1591768605
+end(url):0.39260700 1591768605
+URL:/asdf
+METHOD:GET
+start(url):0.68927100 1591770290
+start_controller(asdf->index):0.69030300 1591770290
+CallStack is NOT empty
+asdf->index
+URL:/favicon.ico
+METHOD:GET
+start(url):0.88136700 1591770290
+start_controller(favicon.ico->index):0.88191600 1591770290
+CallStack is NOT empty
+favicon.ico->index
+URL:/asdf
+METHOD:GET
+start(url):0.65636600 1591770305
+start_controller(asdf->index):0.65732000 1591770305
+start(mu->query): 0.65767300 1591770305
+CallStack is NOT empty
+asdf->index
+URL:/asdf
+METHOD:GET
+start(url):0.95114200 1591770349
+start_controller(asdf->index):0.95172500 1591770349
+start(mu->query): 0.96832400 1591770349
+end(mu->query): 0.96859500 1591770349
+end_controller(asdf->index):0.96863800 1591770349
+end(url):0.96865000 1591770349
+URL:/asdf
+METHOD:GET
+start(url):0.97739600 1591770349
+start_controller(asdf->index):0.97756200 1591770349
+start(mu->query): 0.97917700 1591770349
+end(mu->query): 0.97970900 1591770349
+end_controller(asdf->index):0.97977300 1591770349
+end(url):0.97977600 1591770349
+URL:/asdf
+METHOD:GET
+start(url):0.99009100 1591770349
+start_controller(asdf->index):0.99024000 1591770349
+start(mu->query): 0.99100000 1591770349
+end(mu->query): 0.99143000 1591770349
+end_controller(asdf->index):0.99149400 1591770349
+end(url):0.99149700 1591770349
+URL:/asdf
+METHOD:GET
+start(url):0.99850700 1591770349
+start_controller(asdf->index):0.99873600 1591770349
+start(mu->query): 0.99943600 1591770349
+end(mu->query): 0.99972400 1591770349
+end_controller(asdf->index):0.99975600 1591770349
+end(url):0.99975800 1591770349
+URL:/asdf
+METHOD:GET
+start(url):0.04753400 1591770350
+start_controller(asdf->index):0.04762200 1591770350
+start(mu->query): 0.04812700 1591770350
+end(mu->query): 0.04842400 1591770350
+end_controller(asdf->index):0.04846600 1591770350
+end(url):0.04846800 1591770350
+URL:/asdf
+METHOD:GET
+start(url):0.05400200 1591770350
+start_controller(asdf->index):0.05413100 1591770350
+start(mu->query): 0.05486300 1591770350
+end(mu->query): 0.05514800 1591770350
+end_controller(asdf->index):0.05519000 1591770350
+end(url):0.05519200 1591770350
+URL:/asdf
+METHOD:GET
+start(url):0.06524700 1591770350
+start_controller(asdf->index):0.06533900 1591770350
+start(mu->query): 0.06577100 1591770350
+end(mu->query): 0.06599200 1591770350
+end_controller(asdf->index):0.06602500 1591770350
+end(url):0.06602700 1591770350
+URL:/asdf
+METHOD:GET
+start(url):0.07178400 1591770350
+start_controller(asdf->index):0.07189800 1591770350
+start(mu->query): 0.07259800 1591770350
+end(mu->query): 0.07288200 1591770350
+end_controller(asdf->index):0.07291900 1591770350
+end(url):0.07292000 1591770350
+URL:/asdf
+METHOD:GET
+start(url):0.07885400 1591770350
+start_controller(asdf->index):0.07930100 1591770350
+start(mu->query): 0.08011100 1591770350
+end(mu->query): 0.08051900 1591770350
+end_controller(asdf->index):0.08057600 1591770350
+end(url):0.08057700 1591770350
+URL:/asdf
+METHOD:GET
+start(url):0.09168000 1591770350
+start_controller(asdf->index):0.09181100 1591770350
+start(mu->query): 0.09234900 1591770350
+end(mu->query): 0.09259000 1591770350
+end_controller(asdf->index):0.09262500 1591770350
+end(url):0.09262600 1591770350
+URL:/asdf
+METHOD:GET
+start(url):0.09917700 1591770350
+start_controller(asdf->index):0.09926800 1591770350
+start(mu->query): 0.09978600 1591770350
+end(mu->query): 0.09998600 1591770350
+end_controller(asdf->index):0.10001600 1591770350
+end(url):0.10001800 1591770350
+URL:/asdf
+METHOD:GET
+start(url):0.14903000 1591770350
+start_controller(asdf->index):0.14912700 1591770350
+start(mu->query): 0.14958400 1591770350
+end(mu->query): 0.14984700 1591770350
+end_controller(asdf->index):0.14987600 1591770350
+end(url):0.14987800 1591770350
+URL:/asdf
+METHOD:GET
+start(url):0.15415200 1591770350
+start_controller(asdf->index):0.15431300 1591770350
+start(mu->query): 0.15503600 1591770350
+end(mu->query): 0.15541400 1591770350
+end_controller(asdf->index):0.15546100 1591770350
+end(url):0.15546400 1591770350
+URL:/asdf
+METHOD:GET
+start(url):0.16031300 1591770350
+start_controller(asdf->index):0.16040400 1591770350
+start(mu->query): 0.16087100 1591770350
+end(mu->query): 0.16115800 1591770350
+end_controller(asdf->index):0.16119500 1591770350
+end(url):0.16119700 1591770350
+URL:/asdf
+METHOD:GET
+start(url):0.16795500 1591770350
+start_controller(asdf->index):0.16807000 1591770350
+start(mu->query): 0.16860400 1591770350
+end(mu->query): 0.16888000 1591770350
+end_controller(asdf->index):0.16892100 1591770350
+end(url):0.16892400 1591770350
+URL:/asdf
+METHOD:GET
+start(url):0.17511100 1591770350
+start_controller(asdf->index):0.17523000 1591770350
+start(mu->query): 0.17574300 1591770350
+end(mu->query): 0.17600500 1591770350
+end_controller(asdf->index):0.17603200 1591770350
+end(url):0.17603300 1591770350
+URL:/asdf
+METHOD:GET
+start(url):0.18227800 1591770350
+start_controller(asdf->index):0.18262500 1591770350
+start(mu->query): 0.18395200 1591770350
+end(mu->query): 0.18477400 1591770350
+end_controller(asdf->index):0.18491600 1591770350
+end(url):0.18492000 1591770350
+URL:/asdf
+METHOD:GET
+start(url):0.19250200 1591770350
+start_controller(asdf->index):0.19263000 1591770350
+start(mu->query): 0.19326800 1591770350
+end(mu->query): 0.19351600 1591770350
+end_controller(asdf->index):0.19355900 1591770350
+end(url):0.19356200 1591770350
+URL:/asdf
+METHOD:GET
+start(url):0.19977400 1591770350
+start_controller(asdf->index):0.19986900 1591770350
+start(mu->query): 0.20034400 1591770350
+end(mu->query): 0.20053400 1591770350
+end_controller(asdf->index):0.20056300 1591770350
+end(url):0.20056500 1591770350
+URL:/asdf
+METHOD:GET
+start(url):0.25494500 1591770350
+start_controller(asdf->index):0.25515300 1591770350
+start(mu->query): 0.25575400 1591770350
+end(mu->query): 0.25594700 1591770350
+end_controller(asdf->index):0.25598400 1591770350
+end(url):0.25598600 1591770350
+URL:/asdf
+METHOD:GET
+start(url):0.26289100 1591770350
+start_controller(asdf->index):0.26301400 1591770350
+start(mu->query): 0.26366100 1591770350
+end(mu->query): 0.26393400 1591770350
+end_controller(asdf->index):0.26398500 1591770350
+end(url):0.26398700 1591770350
+URL:/asdf
+METHOD:GET
+start(url):0.49184700 1591770379
+start_controller(asdf->index):0.49295600 1591770379
+start(mu->query): 0.49372000 1591770379
+end(mu->query): 0.49397200 1591770379
+CallStack is NOT empty
+asdf->index
+URL:/asdf
+METHOD:GET
+start(url):0.44754600 1591770394
+start_controller(asdf->index):0.44822200 1591770394
+start(mu->query): 0.44880100 1591770394
+end(mu->query): 0.44901900 1591770394
+CallStack is NOT empty
+asdf->index
+URL:/asdf
+METHOD:GET
+start(url):0.13427900 1591770442
+start_controller(asdf->index):0.13495400 1591770442
+start(mu->query): 0.13651400 1591770442
+end(mu->query): 0.13794200 1591770442
+end_controller(asdf->index):0.13799600 1591770442
+end(url):0.13800300 1591770442
+URL:/t/page
+METHOD:GET
+start(url):0.15607900 1591770442
+start_controller(t->page):0.15649300 1591770442
+end_controller(t->page):0.15650600 1591770442
+end(url):0.15650700 1591770442
+URL:/asdfasdf
+METHOD:GET
+start(url):0.67654900 1591770497
+start_controller(->):0.67675500 1591770497
+start(mu->query): 0.67738700 1591770497
+end(mu->query): 0.67760900 1591770497
+end_controller(->):0.67761900 1591770497
+end(url):0.67762000 1591770497
+URL:/t/page
+METHOD:GET
+start(url):0.69649500 1591770497
+start_controller(t->page):0.69683700 1591770497
+end_controller(t->page):0.69684600 1591770497
+end(url):0.69684600 1591770497
+URL:/t
+METHOD:POST
+POST_BODY:{
+    "url":"http://www.baidu.com"
+}
+start(url):0.35319900 1591770647
+start_controller(t->index):0.35340600 1591770647
+end_controller(t->index):0.35341200 1591770647
+end(url):0.35341300 1591770647
+URL:/t
+METHOD:POST
+POST_BODY:{
+    "url":"http://www.baidu.com"
+}
+start(url):0.18916400 1591770662
+start_controller(t->index):0.18959700 1591770662
+end_controller(t->index):0.18961200 1591770662
+end(url):0.18961300 1591770662
+URL:/t
+METHOD:POST
+POST_BODY:{
+    "url":"http://www.baidu.com"
+}
+start(url):0.34794400 1591771322
+start_controller(t->index):0.34880500 1591771322
+CallStack is NOT empty
+t->index
+URL:/t
+METHOD:POST
+POST_BODY:{
+    "url":"http://www.baidu.com"
+}
+start(url):0.22663100 1591771361
+start_controller(t->index):0.22736100 1591771361
+start(mu->checkSame): 0.22788000 1591771361
+CallStack is NOT empty
+t->index
+URL:/t
+METHOD:POST
+POST_BODY:{
+    "url":"http://www.baidu.com"
+}
+start(url):0.05053400 1591771383
+start_controller(t->index):0.05128100 1591771383
+start(mu->checkSame): 0.05206500 1591771383
+end(mu->checkSame): 0.05234200 1591771383
+start(mu->add): 0.05238000 1591771383
+end(mu->add): 0.09095900 1591771383
+end_controller(t->index):0.09108300 1591771383
+end(url):0.09108600 1591771383
+URL:/t
+METHOD:POST
+POST_BODY:{
+    "url":"http://www.baidu.com"
+}
+start(url):0.36616700 1591771406
+start_controller(t->index):0.36700000 1591771406
+start(mu->checkSame): 0.36772300 1591771406
+end(mu->checkSame): 0.36801600 1591771406
+start(mu->add): 0.36803200 1591771406
+end(mu->add): 0.41171900 1591771406
+end_controller(t->index):0.41180500 1591771406
+end(url):0.41180800 1591771406
+URL:/t
+METHOD:POST
+POST_BODY:{
+    "url":"http://www.baidu.com"
+}
+start(url):0.51441400 1591771459
+start_controller(t->index):0.51494100 1591771459
+start(mu->checkSame): 0.51549000 1591771459
+end(mu->checkSame): 0.51570700 1591771459
+end_controller(t->index):0.51571900 1591771459
+end(url):0.51572100 1591771459
+URL:/t
+METHOD:POST
+POST_BODY:{
+    "url":"http://www.baidu.com"
+}
+start(url):0.23526300 1591771472
+start_controller(t->index):0.23636200 1591771472
+start(mu->checkSame): 0.23734400 1591771472
+end(mu->checkSame): 0.23776700 1591771472
+end_controller(t->index):0.23780900 1591771472
+end(url):0.23781700 1591771472
+URL:/t
+METHOD:POST
+POST_BODY:{
+    "url":"http://www.baidu.com"
+}
+start(url):0.87578300 1591771496
+start_controller(t->index):0.87661000 1591771496
+start(mu->checkSame): 0.87732400 1591771496
+end(mu->checkSame): 0.87759400 1591771496
+end_controller(t->index):0.87760800 1591771496
+end(url):0.87761100 1591771496
+URL:/t
+METHOD:POST
+POST_BODY:{
+    "url":"http://www.baidu.com"
+}
+start(url):0.89703000 1591771672
+start_controller(t->index):0.89752500 1591771672
+start(mu->checkSame): 0.89800000 1591771672
+end(mu->checkSame): 0.89819100 1591771672
+CallStack is NOT empty
+t->index
+URL:/t
+METHOD:POST
+POST_BODY:{
+    "url":"http://www.baidu.com"
+}
+start(url):0.22634700 1591771681
+start_controller(t->index):0.22705800 1591771681
+start(mu->checkSame): 0.22775500 1591771681
+end(mu->checkSame): 0.22805800 1591771681
+end_controller(t->index):0.22808400 1591771681
+end(url):0.22808600 1591771681
+URL:/t
+METHOD:POST
+POST_BODY:{
+    "url":"http://www.sina.com.cn"
+}
+start(url):0.67648600 1591771704
+start_controller(t->index):0.67682000 1591771704
+start(mu->checkSame): 0.67758000 1591771704
+end(mu->checkSame): 0.67785100 1591771704
+start(mu->add): 0.67786100 1591771704
+end(mu->add): 0.72092600 1591771704
+end_controller(t->index):0.72099100 1591771704
+end(url):0.72099400 1591771704
+URL:/t
+METHOD:POST
+POST_BODY:{
+    "url":"http://www.sina.com.cn/"
+}
+start(url):0.55701300 1591771717
+start_controller(t->index):0.55763200 1591771717
+start(mu->checkSame): 0.55838900 1591771717
+end(mu->checkSame): 0.55864900 1591771717
+start(mu->add): 0.55866200 1591771717
+end(mu->add): 0.59858300 1591771717
+end_controller(t->index):0.59867100 1591771717
+end(url):0.59867400 1591771717
+URL:/t
+METHOD:POST
+POST_BODY:{
+    "url":"http://www.sina.com.cn/"
+}
+start(url):0.49653500 1591771836
+start_controller(t->index):0.49748900 1591771836
+start(mu->checkSame): 0.49823400 1591771836
+end(mu->checkSame): 0.49851200 1591771836
+end_controller(t->index):0.49853800 1591771836
+end(url):0.49853900 1591771836
+URL:/5Tb
+METHOD:GET
+start(url):0.62147800 1591771852
+start_controller(5Tb->index):0.62211900 1591771852
+start(mu->query): 0.62278900 1591771852
+end(mu->query): 0.62305600 1591771852
+end_controller(5Tb->index):0.62309600 1591771852
+end(url):0.62309800 1591771852
+URL:/5Tb
+METHOD:GET
+start(url):0.64425500 1591771852
+start_controller(5Tb->index):0.64443400 1591771852
+start(mu->query): 0.64499200 1591771852
+end(mu->query): 0.64522100 1591771852
+end_controller(5Tb->index):0.64526000 1591771852
+end(url):0.64526300 1591771852
+URL:/5Tb
+METHOD:GET
+start(url):0.64956700 1591771852
+start_controller(5Tb->index):0.64969900 1591771852
+start(mu->query): 0.65032600 1591771852
+end(mu->query): 0.65056500 1591771852
+end_controller(5Tb->index):0.65060600 1591771852
+end(url):0.65061000 1591771852
+URL:/5Tb
+METHOD:GET
+start(url):0.65831300 1591771852
+start_controller(5Tb->index):0.65846700 1591771852
+start(mu->query): 0.65917800 1591771852
+end(mu->query): 0.65954700 1591771852
+end_controller(5Tb->index):0.65959500 1591771852
+end(url):0.65959800 1591771852
+URL:/5Tb
+METHOD:GET
+start(url):0.66456500 1591771852
+start_controller(5Tb->index):0.66471600 1591771852
+start(mu->query): 0.66533500 1591771852
+end(mu->query): 0.66555000 1591771852
+end_controller(5Tb->index):0.66559100 1591771852
+end(url):0.66559300 1591771852
+URL:/5Tb
+METHOD:GET
+start(url):0.67063700 1591771852
+start_controller(5Tb->index):0.67076800 1591771852
+start(mu->query): 0.67132100 1591771852
+end(mu->query): 0.67157000 1591771852
+end_controller(5Tb->index):0.67161500 1591771852
+end(url):0.67161700 1591771852
+URL:/5Tb
+METHOD:GET
+start(url):0.67867800 1591771852
+start_controller(5Tb->index):0.67883800 1591771852
+start(mu->query): 0.67976800 1591771852
+end(mu->query): 0.68022100 1591771852
+end_controller(5Tb->index):0.68030200 1591771852
+end(url):0.68030500 1591771852
+URL:/5Tb
+METHOD:GET
+start(url):0.68786600 1591771852
+start_controller(5Tb->index):0.68797400 1591771852
+start(mu->query): 0.68853600 1591771852
+end(mu->query): 0.68883600 1591771852
+end_controller(5Tb->index):0.68888100 1591771852
+end(url):0.68888500 1591771852
+URL:/5Tb
+METHOD:GET
+start(url):0.69565200 1591771852
+start_controller(5Tb->index):0.69579800 1591771852
+start(mu->query): 0.69652300 1591771852
+end(mu->query): 0.69688300 1591771852
+end_controller(5Tb->index):0.69694300 1591771852
+end(url):0.69694600 1591771852
+URL:/5Tb
+METHOD:GET
+start(url):0.70213500 1591771852
+start_controller(5Tb->index):0.70226100 1591771852
+start(mu->query): 0.70287300 1591771852
+end(mu->query): 0.70315000 1591771852
+end_controller(5Tb->index):0.70318800 1591771852
+end(url):0.70319000 1591771852
+URL:/5Tb
+METHOD:GET
+start(url):0.71102800 1591771852
+start_controller(5Tb->index):0.71112000 1591771852
+start(mu->query): 0.71155200 1591771852
+end(mu->query): 0.71173300 1591771852
+end_controller(5Tb->index):0.71175800 1591771852
+end(url):0.71175900 1591771852
+URL:/5Tb
+METHOD:GET
+start(url):0.71463500 1591771852
+start_controller(5Tb->index):0.71475300 1591771852
+start(mu->query): 0.71523800 1591771852
+end(mu->query): 0.71545100 1591771852
+end_controller(5Tb->index):0.71548800 1591771852
+end(url):0.71549000 1591771852
+URL:/5Tb
+METHOD:GET
+start(url):0.71875100 1591771852
+start_controller(5Tb->index):0.71886700 1591771852
+start(mu->query): 0.71938700 1591771852
+end(mu->query): 0.71961900 1591771852
+end_controller(5Tb->index):0.71964400 1591771852
+end(url):0.71964500 1591771852
+URL:/5Tb
+METHOD:GET
+start(url):0.72245300 1591771852
+start_controller(5Tb->index):0.72258300 1591771852
+start(mu->query): 0.72313600 1591771852
+end(mu->query): 0.72343000 1591771852
+end_controller(5Tb->index):0.72349400 1591771852
+end(url):0.72349900 1591771852
+URL:/5Tb
+METHOD:GET
+start(url):0.72791100 1591771852
+start_controller(5Tb->index):0.72811800 1591771852
+start(mu->query): 0.72902500 1591771852
+end(mu->query): 0.72954000 1591771852
+end_controller(5Tb->index):0.72963300 1591771852
+end(url):0.72964100 1591771852
+URL:/5Tb
+METHOD:GET
+start(url):0.73582300 1591771852
+start_controller(5Tb->index):0.73597800 1591771852
+start(mu->query): 0.73681800 1591771852
+end(mu->query): 0.73723000 1591771852
+end_controller(5Tb->index):0.73728300 1591771852
+end(url):0.73728500 1591771852
+URL:/5Tb
+METHOD:GET
+start(url):0.74273400 1591771852
+start_controller(5Tb->index):0.74286200 1591771852
+start(mu->query): 0.74356900 1591771852
+end(mu->query): 0.74382800 1591771852
+end_controller(5Tb->index):0.74387100 1591771852
+end(url):0.74387400 1591771852
+URL:/5Tb
+METHOD:GET
+start(url):0.74793000 1591771852
+start_controller(5Tb->index):0.74803700 1591771852
+start(mu->query): 0.74856000 1591771852
+end(mu->query): 0.74878800 1591771852
+end_controller(5Tb->index):0.74881300 1591771852
+end(url):0.74881400 1591771852
+URL:/5Tb
+METHOD:GET
+start(url):0.75162700 1591771852
+start_controller(5Tb->index):0.75174200 1591771852
+start(mu->query): 0.75218500 1591771852
+end(mu->query): 0.75242400 1591771852
+end_controller(5Tb->index):0.75244600 1591771852
+end(url):0.75244700 1591771852
+URL:/5Tb
+METHOD:GET
+start(url):0.75559200 1591771852
+start_controller(5Tb->index):0.75568200 1591771852
+start(mu->query): 0.75615200 1591771852
+end(mu->query): 0.75641400 1591771852
+end_controller(5Tb->index):0.75645200 1591771852
+end(url):0.75645400 1591771852
+URL:/5Tb
+METHOD:GET
+start(url):0.75982500 1591771852
+start_controller(5Tb->index):0.75991700 1591771852
+start(mu->query): 0.76036500 1591771852
+end(mu->query): 0.76054900 1591771852
+end_controller(5Tb->index):0.76057700 1591771852
+end(url):0.76057800 1591771852
+URL:/5Tb
+METHOD:GET
+start(url):0.91565000 1591771861
+start_controller(5Tb->index):0.91583900 1591771861
+start(mu->query): 0.91636700 1591771861
+end(mu->query): 0.91657700 1591771861
+end_controller(5Tb->index):0.91661600 1591771861
+end(url):0.91661800 1591771861
+URL:/5Tb
+METHOD:GET
+start(url):0.92214700 1591771861
+start_controller(5Tb->index):0.92226400 1591771861
+start(mu->query): 0.92289400 1591771861
+end(mu->query): 0.92322900 1591771861
+end_controller(5Tb->index):0.92328200 1591771861
+end(url):0.92328400 1591771861
+URL:/5Tb
+METHOD:GET
+start(url):0.92884800 1591771861
+start_controller(5Tb->index):0.92894500 1591771861
+start(mu->query): 0.92948500 1591771861
+end(mu->query): 0.92970400 1591771861
+end_controller(5Tb->index):0.92974000 1591771861
+end(url):0.92974200 1591771861
+URL:/5Tb
+METHOD:GET
+start(url):0.94521400 1591771861
+start_controller(5Tb->index):0.94538300 1591771861
+start(mu->query): 0.94611300 1591771861
+end(mu->query): 0.94643800 1591771861
+end_controller(5Tb->index):0.94651500 1591771861
+end(url):0.94651900 1591771861
+URL:/5Tb
+METHOD:GET
+start(url):0.95216500 1591771861
+start_controller(5Tb->index):0.95227000 1591771861
+start(mu->query): 0.95271700 1591771861
+end(mu->query): 0.95290800 1591771861
+end_controller(5Tb->index):0.95293900 1591771861
+end(url):0.95294000 1591771861
+URL:/5Tb
+METHOD:GET
+start(url):0.96279200 1591771861
+start_controller(5Tb->index):0.96290600 1591771861
+start(mu->query): 0.96349200 1591771861
+end(mu->query): 0.96371400 1591771861
+end_controller(5Tb->index):0.96375600 1591771861
+end(url):0.96375900 1591771861
+URL:/5Tb
+METHOD:GET
+start(url):0.05244600 1591771862
+start_controller(5Tb->index):0.05253400 1591771862
+start(mu->query): 0.05297600 1591771862
+end(mu->query): 0.05317800 1591771862
+end_controller(5Tb->index):0.05321600 1591771862
+end(url):0.05321900 1591771862
+URL:/5Tb
+METHOD:GET
+start(url):0.06441000 1591771862
+start_controller(5Tb->index):0.06451200 1591771862
+start(mu->query): 0.06496700 1591771862
+end(mu->query): 0.06517200 1591771862
+end_controller(5Tb->index):0.06520900 1591771862
+end(url):0.06521100 1591771862
+URL:/5Tb
+METHOD:GET
+start(url):0.07049800 1591771862
+start_controller(5Tb->index):0.07058900 1591771862
+start(mu->query): 0.07101300 1591771862
+end(mu->query): 0.07122000 1591771862
+end_controller(5Tb->index):0.07125800 1591771862
+end(url):0.07126000 1591771862
+URL:/5Tb
+METHOD:GET
+start(url):0.09033500 1591771862
+start_controller(5Tb->index):0.09048500 1591771862
+start(mu->query): 0.09123500 1591771862
+end(mu->query): 0.09162100 1591771862
+end_controller(5Tb->index):0.09166800 1591771862
+end(url):0.09167000 1591771862
+URL:/5Tb
+METHOD:GET
+start(url):0.10501000 1591771862
+start_controller(5Tb->index):0.10512200 1591771862
+start(mu->query): 0.10569000 1591771862
+end(mu->query): 0.10588500 1591771862
+end_controller(5Tb->index):0.10591600 1591771862
+end(url):0.10591700 1591771862
+URL:/5Tb
+METHOD:GET
+start(url):0.15307200 1591771862
+start_controller(5Tb->index):0.15318000 1591771862
+start(mu->query): 0.15368800 1591771862
+end(mu->query): 0.15391500 1591771862
+end_controller(5Tb->index):0.15394200 1591771862
+end(url):0.15394400 1591771862
+URL:/5Tb
+METHOD:GET
+start(url):0.15895200 1591771862
+start_controller(5Tb->index):0.15906300 1591771862
+start(mu->query): 0.15975300 1591771862
+end(mu->query): 0.16015900 1591771862
+end_controller(5Tb->index):0.16022800 1591771862
+end(url):0.16023100 1591771862
+URL:/5Tb
+METHOD:GET
+start(url):0.16573100 1591771862
+start_controller(5Tb->index):0.16581600 1591771862
+start(mu->query): 0.16623400 1591771862
+end(mu->query): 0.16645300 1591771862
+end_controller(5Tb->index):0.16649100 1591771862
+end(url):0.16649400 1591771862
+URL:/5Tb
+METHOD:GET
+start(url):0.17147000 1591771862
+start_controller(5Tb->index):0.17158600 1591771862
+start(mu->query): 0.17205100 1591771862
+end(mu->query): 0.17230300 1591771862
+end_controller(5Tb->index):0.17233900 1591771862
+end(url):0.17234100 1591771862
+URL:/5Tb
+METHOD:GET
+start(url):0.17832800 1591771862
+start_controller(5Tb->index):0.17850300 1591771862
+start(mu->query): 0.17919800 1591771862
+end(mu->query): 0.17947000 1591771862
+end_controller(5Tb->index):0.17952400 1591771862
+end(url):0.17952600 1591771862
+URL:/5Tb
+METHOD:GET
+start(url):0.18990500 1591771862
+start_controller(5Tb->index):0.19003600 1591771862
+start(mu->query): 0.19070100 1591771862
+end(mu->query): 0.19097100 1591771862
+end_controller(5Tb->index):0.19101600 1591771862
+end(url):0.19101900 1591771862
+URL:/5Tb
+METHOD:GET
+start(url):0.19867200 1591771862
+start_controller(5Tb->index):0.19876900 1591771862
+start(mu->query): 0.19919300 1591771862
+end(mu->query): 0.19939300 1591771862
+end_controller(5Tb->index):0.19943200 1591771862
+end(url):0.19943400 1591771862
+URL:/5Tb
+METHOD:GET
+start(url):0.25630300 1591771862
+start_controller(5Tb->index):0.25642600 1591771862
+start(mu->query): 0.25690200 1591771862
+end(mu->query): 0.25712700 1591771862
+end_controller(5Tb->index):0.25716100 1591771862
+end(url):0.25716200 1591771862
+URL:/5Tb
+METHOD:GET
+start(url):0.26393400 1591771862
+start_controller(5Tb->index):0.26404200 1591771862
+start(mu->query): 0.26451400 1591771862
+end(mu->query): 0.26471800 1591771862
+end_controller(5Tb->index):0.26476500 1591771862
+end(url):0.26476800 1591771862
+URL:/5Tb
+METHOD:GET
+start(url):0.26985000 1591771862
+start_controller(5Tb->index):0.26995800 1591771862
+start(mu->query): 0.27039500 1591771862
+end(mu->query): 0.27061200 1591771862
+end_controller(5Tb->index):0.27065400 1591771862
+end(url):0.27065700 1591771862
+URL:/5Tb
+METHOD:GET
+start(url):0.17899800 1591771905
+start_controller(5Tb->index):0.18019500 1591771905
+start(mu->query): 0.18122700 1591771905
+end(mu->query): 0.18154800 1591771905
+end_controller(5Tb->index):0.18164100 1591771905
+end(url):0.18164700 1591771905
+URL:/5Tb
+METHOD:GET
+start(url):0.20237400 1591771905
+start_controller(5Tb->index):0.20247400 1591771905
+start(mu->query): 0.20298000 1591771905
+end(mu->query): 0.20320400 1591771905
+end_controller(5Tb->index):0.20327700 1591771905
+end(url):0.20327900 1591771905
+URL:/5Tb
+METHOD:GET
+start(url):0.21534500 1591771905
+start_controller(5Tb->index):0.21555200 1591771905
+start(mu->query): 0.21601900 1591771905
+end(mu->query): 0.21622600 1591771905
+end_controller(5Tb->index):0.21627800 1591771905
+end(url):0.21628000 1591771905
+URL:/5Tb
+METHOD:GET
+start(url):0.22242200 1591771905
+start_controller(5Tb->index):0.22253700 1591771905
+start(mu->query): 0.22312600 1591771905
+end(mu->query): 0.22342700 1591771905
+end_controller(5Tb->index):0.22347000 1591771905
+end(url):0.22347100 1591771905
+URL:/5Tb
+METHOD:GET
+start(url):0.32102300 1591771905
+start_controller(5Tb->index):0.32116100 1591771905
+start(mu->query): 0.32174200 1591771905
+end(mu->query): 0.32204200 1591771905
+end_controller(5Tb->index):0.32207900 1591771905
+end(url):0.32208100 1591771905
+URL:/5Tb
+METHOD:GET
+start(url):0.35182100 1591771905
+start_controller(5Tb->index):0.35191600 1591771905
+start(mu->query): 0.35246300 1591771905
+end(mu->query): 0.35272100 1591771905
+end_controller(5Tb->index):0.35276400 1591771905
+end(url):0.35276600 1591771905
+URL:/5Tb
+METHOD:GET
+start(url):0.36052000 1591771905
+start_controller(5Tb->index):0.36061300 1591771905
+start(mu->query): 0.36104900 1591771905
+end(mu->query): 0.36126200 1591771905
+end_controller(5Tb->index):0.36129400 1591771905
+end(url):0.36129600 1591771905
+URL:/5Tb
+METHOD:GET
+start(url):0.36594400 1591771905
+start_controller(5Tb->index):0.36608000 1591771905
+start(mu->query): 0.36662400 1591771905
+end(mu->query): 0.36687900 1591771905
+end_controller(5Tb->index):0.36691000 1591771905
+end(url):0.36691200 1591771905
+URL:/5Tb
+METHOD:GET
+start(url):0.37491000 1591771905
+start_controller(5Tb->index):0.37501600 1591771905
+start(mu->query): 0.37552200 1591771905
+end(mu->query): 0.37572400 1591771905
+end_controller(5Tb->index):0.37575700 1591771905
+end(url):0.37575900 1591771905
+URL:/5Tb
+METHOD:GET
+start(url):0.38358100 1591771905
+start_controller(5Tb->index):0.38387200 1591771905
+start(mu->query): 0.38500000 1591771905
+end(mu->query): 0.38541400 1591771905
+end_controller(5Tb->index):0.38548600 1591771905
+end(url):0.38549100 1591771905
+URL:/5Tb
+METHOD:GET
+start(url):0.44414300 1591771905
+start_controller(5Tb->index):0.44425600 1591771905
+start(mu->query): 0.44470100 1591771905
+end(mu->query): 0.44490100 1591771905
+end_controller(5Tb->index):0.44494500 1591771905
+end(url):0.44494800 1591771905
+URL:/5Tb
+METHOD:GET
+start(url):0.45276800 1591771905
+start_controller(5Tb->index):0.45285500 1591771905
+start(mu->query): 0.45331700 1591771905
+end(mu->query): 0.45351200 1591771905
+end_controller(5Tb->index):0.45356000 1591771905
+end(url):0.45356300 1591771905
+URL:/5Tb
+METHOD:GET
+start(url):0.46047700 1591771905
+start_controller(5Tb->index):0.46059000 1591771905
+start(mu->query): 0.46102700 1591771905
+end(mu->query): 0.46125700 1591771905
+end_controller(5Tb->index):0.46128500 1591771905
+end(url):0.46128600 1591771905
+URL:/5Tb
+METHOD:GET
+start(url):0.46676700 1591771905
+start_controller(5Tb->index):0.46687900 1591771905
+start(mu->query): 0.46731700 1591771905
+end(mu->query): 0.46752300 1591771905
+end_controller(5Tb->index):0.46755400 1591771905
+end(url):0.46755600 1591771905
+URL:/5Tb
+METHOD:GET
+start(url):0.47363000 1591771905
+start_controller(5Tb->index):0.47375900 1591771905
+start(mu->query): 0.47426800 1591771905
+end(mu->query): 0.47448500 1591771905
+end_controller(5Tb->index):0.47452800 1591771905
+end(url):0.47453000 1591771905
+URL:/5Tb
+METHOD:GET
+start(url):0.48248500 1591771905
+start_controller(5Tb->index):0.48278800 1591771905
+start(mu->query): 0.48393500 1591771905
+end(mu->query): 0.48430000 1591771905
+end_controller(5Tb->index):0.48434700 1591771905
+end(url):0.48434900 1591771905
+URL:/5Tb
+METHOD:GET
+start(url):0.49269300 1591771905
+start_controller(5Tb->index):0.49281400 1591771905
+start(mu->query): 0.49330800 1591771905
+end(mu->query): 0.49353000 1591771905
+end_controller(5Tb->index):0.49356300 1591771905
+end(url):0.49356500 1591771905
+URL:/5Tb
+METHOD:GET
+start(url):0.55399300 1591771905
+start_controller(5Tb->index):0.55407700 1591771905
+start(mu->query): 0.55452900 1591771905
+end(mu->query): 0.55475700 1591771905
+end_controller(5Tb->index):0.55478300 1591771905
+end(url):0.55478400 1591771905
+URL:/5Tb
+METHOD:GET
+start(url):0.56558400 1591771905
+start_controller(5Tb->index):0.56567600 1591771905
+start(mu->query): 0.56625300 1591771905
+end(mu->query): 0.56654300 1591771905
+end_controller(5Tb->index):0.56657900 1591771905
+end(url):0.56658100 1591771905
+URL:/5Tb
+METHOD:GET
+start(url):0.58800700 1591771905
+start_controller(5Tb->index):0.58814200 1591771905
+start(mu->query): 0.58886300 1591771905
+end(mu->query): 0.58917500 1591771905
+end_controller(5Tb->index):0.58922800 1591771905
+end(url):0.58923600 1591771905
+URL:/5Tb
+METHOD:GET
+start(url):0.59622000 1591771905
+start_controller(5Tb->index):0.59638600 1591771905
+start(mu->query): 0.59700000 1591771905
+end(mu->query): 0.59728200 1591771905
+end_controller(5Tb->index):0.59732100 1591771905
+end(url):0.59732300 1591771905
+URL:/5Tb
+METHOD:GET
+start(url):0.78049700 1591771928
+start_controller(5Tb->index):0.78158900 1591771928
+start(mu->query): 0.78385100 1591771928
+end(mu->query): 0.78522000 1591771928
+CallStack is NOT empty
+5Tb->index
+URL:/5Tb
+METHOD:GET
+start(url):0.30857000 1591771962
+start_controller(5Tb->index):0.30976500 1591771962
+start(mu->query): 0.31147000 1591771962
+end(mu->query): 0.31203100 1591771962
+end_controller(5Tb->index):0.31204900 1591771962
+end(url):0.31205200 1591771962
